@@ -1,0 +1,17 @@
+opencv-python==4.8.0.74
+numpy==1.24.3
+pytesseract==0.3.10
+pdf2image==1.16.3
+pillow==10.0.0
+pandas==2.0.3
+scikit-image==0.21.0
+python-dotenv==1.0.0
+flask==3.0.0
+requests==2.31.0
+easyocr==1.7.0
+paddleocr==2.7.0.3
+camelot-py==0.11.0
+pdfplumber==0.9.0
+layoutlm==0.0.1
+torch==2.0.1
+torchvision==0.15.2
